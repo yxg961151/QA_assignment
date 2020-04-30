@@ -1,6 +1,8 @@
 Web page: homepage.jsp, logon.jsp, register.jsp
 Servlet: Register, Logon
 
+Test
+
 Tasks:
 1, create your own unit test program to test Register/Logon servlet. the Mockito package is using for http request/response mock.
 2, create your own build.xml to compile project, call unit test, show test result/report.
